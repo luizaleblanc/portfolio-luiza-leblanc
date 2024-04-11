@@ -12,7 +12,7 @@
 }
 
 .techsWrapper {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  gap: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
 }

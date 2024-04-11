@@ -1,4 +1,5 @@
 import Button from "../Button/Button";
+import ImgBanner from "../../assets/banner-img.png"
 
 import {username} from "../../data/user";
 
@@ -15,7 +16,7 @@ export default function Banner() {
         <Button label="Saiba mais" />
         </a>
       </div>
-      <img src="src/assets/banner-img.svg" alt="banner" />
+      <img src={ImgBanner} alt="banner" />
     </div>
   );
 }

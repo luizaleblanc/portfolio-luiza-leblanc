@@ -10,12 +10,12 @@ export const projects = [
     link: "https://m2-rede-social-luizaleblanc.vercel.app/"
   },
   {
-    name: "Protótipo de App de Música",
+    name: "Music Prototype",
     description: "Descubra um protótipo inovador de um aplicativo de música",
     link: "https://open-music-template-luizaleblanc.vercel.app/"
   },
   {
-    name: "Git Search Base (encontra perfis do GitHub)",
+    name: "Git Search Base",
     description: "Uma ferramenta poderosa para encontrar perfis no GitHub",
     link: "https://gitsearchbase.vercel.app/"
   },

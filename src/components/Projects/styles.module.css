@@ -12,7 +12,7 @@
 }
 
 .projectsWrapper {
-  display: grid;
-  grid-template-columns: auto auto;
+  display: flex;
+  flex-direction: column;
   gap: 1.25rem 1rem;
 }

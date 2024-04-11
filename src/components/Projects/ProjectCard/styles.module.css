@@ -9,6 +9,7 @@
 
 .name {
   font-size: var(--title-3-size);
+  color: var(--white);
   font-weight: 800;
   margin-bottom: 1rem;
 }
@@ -16,10 +17,11 @@
 .description {
   line-height: 1.875rem;
   margin-bottom: 2rem;
+  color: var(--white);
 }
 
 .link {
-  color: var(--link-color);
+  color: var(--white);
   text-decoration: none;
   transition: 300ms;
   font-weight: 700;
